@@ -1,11 +1,7 @@
 package main
 
-import (
-	"fmt"
-
-	"github.com/lillotto/stringutil"
-)
+import "fmt"
 
 func main() {
-	fmt.Printf(stringutil.Reverse("!oG ,olleH"))
+	fmt.Printf("Hello, world.\n")
 }
